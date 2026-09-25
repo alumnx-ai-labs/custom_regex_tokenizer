@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+tiktoken
+pymupdf
+python-multipart
+pytest
+httpx
